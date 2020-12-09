@@ -2,7 +2,7 @@
 This analysis is a part of Advanced data-analysis nano-degree provided by Udacity and sponsored by FWD
 
 ## Dataset
-The [`dataset`]() we will be using is a loan dataset, it contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. -   This [`data dictionary`]() explains the variables in the dataset.
+The [`dataset`](https://github.com/HamzaFouad/Advanced_Data_Analysis_Udacity/blob/master/3_visualization_analysis/prosperLoanData.csv) we will be using is a loan dataset, it contains 113,937 loans with 81 variables on each loan, including loan amount, borrower rate (or interest rate), current loan status, borrower income, and many others. -   This [`data dictionary`](https://github.com/HamzaFouad/Advanced_Data_Analysis_Udacity/blob/master/3_visualization_analysis/schema_ProsperLoanData.csv) explains the variables in the dataset.
 We will be focusing on just a few variables and focus on answering these questions:
 * What factors affect a loan’s outcome status?
 * What affects the borrower’s APR or interest rate?
